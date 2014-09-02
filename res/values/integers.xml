@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="five">5</integer>
+    <integer name="fif">15</integer>
+    <integer name="eightteen">18</integer>
+    <integer name="three">3</integer>
+    <integer name="nineteen">19</integer>
+</resources>
